@@ -1,4 +1,4 @@
-# PathLAD-Plus
+# PathLAD+
 SIP solver
 
 This is a solver for solving subgraph isomorphism problems.
