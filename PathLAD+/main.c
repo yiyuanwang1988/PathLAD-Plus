@@ -352,6 +352,15 @@ bool solves_pre(int timeLimit, bool firstSol, bool induced, int verbose, Tdomain
     return true;
 }
 
+void exc(int* a, int* b)
+{
+    int t;
+    t = *a;
+    *a = *b;
+    *b = t;
+}
+
+
 void disorganise(int a[], int len)
 {
     srand( time(NULL) );
@@ -365,15 +374,6 @@ void disorganise(int a[], int len)
         rN2 = (rand() % len);
     }
 }
-
-void exc(int* a, int* b)
-{
-    int t;
-    t = *a;
-    *a = *b;
-    *b = t;
-}
-
 
 bool solves_pres(int timeLimit, bool firstSol, bool induced, int verbose, Tdomain* D, Tgraph* Gp, Tgraph* Gt, int depth, bool absd){
     if(nbSol > 0) return true;
