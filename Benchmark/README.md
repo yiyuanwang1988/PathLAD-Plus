@@ -1,4 +1,2 @@
-Download the benchmark:
-
-
-[http://liris.cnrs.fr/csolnon/newSIPbenchmarks.tgz](http://liris.cnrs.fr/csolnon/newSIPbenchmarks.tgz) 
+Download the graph-database benchmark:
+https://github.com/yiyuanwang1988/PathLAD-Plus/blob/master/benchmark-graph-database.zip
