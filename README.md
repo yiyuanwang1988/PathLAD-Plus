@@ -14,7 +14,7 @@ ulimit -s 40960 (or ulimit -s 102400)
 After using this commands, if you still have segment faults, we also provide a code with modified data structures (PathLAD-Plus-modified) for machines with less memory.
 
 
-We have further improved PathLAD+. The latest version of PathLAD+ is in PathLAD+X.zip, which provides better performance on small graphs while easily solving large graphs with millions of vertices.
+We have further improved PathLAD+. The latest version of PathLAD+ is in PathLAD+v1.x.zip, which provides better performance on small graphs while easily solving large graphs with millions of vertices.
 
 
 Compilation environment: Ubuntu, gcc compiler, std=c99
