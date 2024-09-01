@@ -1,4 +1,4 @@
-# Competitor
+![image](https://github.com/user-attachments/assets/208e78e5-27cb-4a3f-82c6-b8c72502b3a4)# Competitor
 
 Other solvers are available at the following website:
 
@@ -16,3 +16,9 @@ Other solvers are available at the following website:
 
 ## VF2
 [http://mivia.unisa.it/datasets-request/](http://mivia.unisa.it/datasets-request/)
+
+## DGE
+[https://github.com/Jxt1/DGE](https://github.com/Jxt1/DGE)
+
+## Sigmod-20
+[https://github.com/RapidsAtHKUST/SubgraphMatching](https://github.com/RapidsAtHKUST/SubgraphMatching)
