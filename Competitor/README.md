@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/208e78e5-27cb-4a3f-82c6-b8c72502b3a4)# Competitor
+# Competitor
 
 Other solvers are available at the following website:
 
